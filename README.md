@@ -1,2 +1,2 @@
 # ModelsAndReports
-Financial models and bull/bear/neutral thesis on companies.
+Financial models and long/short/neutral reports on companies.
